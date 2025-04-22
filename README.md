@@ -266,6 +266,8 @@ After computing the initial similarity scores for the different parameters (such
    - The final prediction is made by identifying the LinkedIn profile with the highest combined similarity score. This profile is considered the most relevant to the input data, making it the most probable match.
   
    With love:
+   
    Vishesh Bhardwaj
+   
    Youtube :https://youtu.be/6ftpxiMm8eE
    
